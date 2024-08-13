@@ -1,5 +1,3 @@
-Your project should include a README file containing the following information:
-
 1. The libraries required to run the project:
 
 numpy==1.26.2
